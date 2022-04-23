@@ -15,7 +15,7 @@
 ### 2. *Belarussian - B2*
 ### 3. *English - A2*
 
-[This is a link to Yury Maruk](https://github.com/TomHooks/rsschool-cv/blob/gh-pages/cv.md)
+[This is a link to Yury Maruk](https://TomHooks.github.io/rsschool-cv/cv)
 
 
 
