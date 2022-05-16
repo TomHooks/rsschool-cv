@@ -1,0 +1,38 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    border: 1px solid red;
+}
+
+main {
+    border: 1px solid red;
+}
+
+footer {
+    border: 1px solid red;
+}
+
+.container {
+    min-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    list-style: none;
+}
